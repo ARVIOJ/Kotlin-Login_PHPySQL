@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login PHPySQL</string>
+
+    <string name="hint_email">Type your Email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_name">Type your Full name</string>
+    <string name="hint_username">Type your Username</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Go to Register.</string>
+    <string name="btn_link_to_login">Already registered! Go to Login.</string>
+    <string name="welcome">WELCOME</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Full name:</string>
+    <string name="user_registed">User created successfully</string>
+
+</resources>
